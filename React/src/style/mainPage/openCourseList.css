@@ -1,0 +1,61 @@
+.openCourseList {
+  max-width: 1248px;
+  min-width: 1024px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.singleCourse {
+  float: left;
+  width: 24.9%;
+  min-height: 100px;
+  margin: 0 15px 30px 15px;
+  padding: 0;
+  border: 1px solid #e0dbc3;
+  background: #fff;
+}
+
+.singleCourseInfo {
+}
+
+.singleCourseInfo h2 {
+  height: 44px;
+  text-align: center;
+  line-height: 44px;
+  border-bottom: 1px solid #ece9db;
+  margin: 0 9px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: normal;
+}
+
+.singleCourseInfo h2 a {
+  font-size: 16px;
+  color: #8a6c44;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.infoDetail p {
+  font-size: 14px;
+  color: #6e747c;
+  line-height: 2;
+  margin: 0 9px;
+  overflow: hidden;
+}
+
+.infoDetail p a {
+  text-decoration: none;
+  color: #333;
+  cursor: pointer;
+}
+
+.date {
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  background: #f4f2ea;
+  font-size: 12px;
+  color: #343f4d;
+}
